@@ -1,0 +1,38 @@
+/* style.css */
+.hero-section {
+    background: linear-gradient(to right, #ffe8e8, #fff6e1);
+    padding: 100px 0;
+  }
+  
+  .partners img {
+    margin: 0 15px;
+  }
+  
+  .clients-section .row {
+    justify-content: center;
+  }
+  
+  .service-box {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .expert-box {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .consultation-section {
+    background: linear-gradient(to right, #d4edff, #e1ffe6);
+    padding: 100px 0;
+  }
+  
+  .consultation-form .form-control {
+    margin-bottom: 15px;
+  }
+  
+  footer {
+    background: #333;
+    color: #fff;
+  }
+  
